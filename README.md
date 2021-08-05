@@ -1,6 +1,13 @@
 # YouTube-Trending-Analysis
 
-This project uses Python, Pandas, SQL, NumPy, Matplotlib & Seaborn, JSON, and Scikit-Learn
+This project uses
+* Python
+* Pandas
+* SQL
+* NumPy
+* Matplotlib & Seaborn
+* JSON
+* Scikit-Learn
 
 I decided to work on this project after finding the data on Kaggle. I had never worked with YouTube data before and wanted to, mainly from personal curiosity.
 

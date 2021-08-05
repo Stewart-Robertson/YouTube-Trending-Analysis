@@ -16,4 +16,4 @@ I also wanted to take on a Machine Learning task in the notebook, whether it cou
 It turned out that the ML task was a little too ambitious for the data that were available (18 classes and only 5 suitable features) but it was insightful nonetheless.
 
 ## Note
-To view the interactive 3D projection at the end of the notebook, copy the notebook url into the search bar at https://nbviewer.jupyter.org/
+The interactive 3D projection does not show on GitHub, but does work on Jupyter. The directory "figures" contains the missing projection image, but it is not interactive.
